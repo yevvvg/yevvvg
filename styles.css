@@ -1,0 +1,55 @@
+body {
+    background-color: #F9B5D0;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    }
+h1 {
+    font-size: 3rem;
+    margin: 30px auto 0 auto;
+    }
+    h2 {
+    font-size: 2,5rem;
+    }
+.top-container {
+    background-color: #F9B5D0;
+    color: #CB1C8D;
+    }
+
+   .duck {
+   display: none;
+   }
+   .crocodile{
+   position: relative;
+   left: 170px;
+   }
+   .ghost {
+   position: relative;
+   right: 200px;
+   }
+.profile {
+    padding: 5% 0;
+    }
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: #F3CCFF;
+    width: 15%;
+    }
+.frogs-skills {
+    position: relative;
+    bottom: 20px;
+    }
+.skills-table {
+    margin: 0 auto;
+    }
+.contact-me {
+    font-family: 'VT323', monospace;
+    }
+.bottom-container {
+    margin: 0px;
+    padding: 10px;
+    }
+
+
+
