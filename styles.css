@@ -5,10 +5,12 @@ body {
     font-family: 'Roboto Mono', monospace;
     }
 h1 {
+    line-height: 2;
     font-size: 3rem;
     margin: 30px auto 0 auto;
     }
     h2 {
+    color: #CB1C8D;
     font-size: 2,5rem;
     }
 .top-container {
@@ -33,7 +35,7 @@ h1 {
 hr {
     border-style: dotted none none;
     border-width: 10px;
-    border-color: #F3CCFF;
+    border-color: #C060A1;
     width: 15%;
     }
 .frogs-skills {
@@ -50,6 +52,6 @@ hr {
     margin: 0px;
     padding: 10px;
     }
-
-
-
+    a {
+    color: #CB1C8D;
+    }
